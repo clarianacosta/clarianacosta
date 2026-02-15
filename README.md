@@ -112,13 +112,3 @@ My aim is to continue growing and advancing in the tech industry, so feel free t
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
-
-
-؜᠎
-
----
-
-؜᠎
-
-// <img src="https://github-readme-stats.vercel.app/api?username=clarianacosta&show_icons=true&theme=nord" align="left" width="350" >
-// <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarianacosta&theme=nord" align="left" width="375" >
