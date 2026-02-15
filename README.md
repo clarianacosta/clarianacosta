@@ -120,5 +120,5 @@ My aim is to continue growing and advancing in the tech industry, so feel free t
 
 ؜᠎
 
-# <img src="https://github-readme-stats.vercel.app/api?username=clarianacosta&show_icons=true&theme=nord" align="left" width="350" >
-# <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarianacosta&theme=nord" align="left" width="375" >
+// <img src="https://github-readme-stats.vercel.app/api?username=clarianacosta&show_icons=true&theme=nord" align="left" width="350" >
+// <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarianacosta&theme=nord" align="left" width="375" >
