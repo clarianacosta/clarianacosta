@@ -18,9 +18,11 @@ My aim is to continue growing and advancing in the tech industry, so feel free t
   <img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/LinkedinLogo2.svg" />
 </a>
 
+<!--
 <a href="https://judge.beecrowd.com/pt/profile/519988">
   <img align="left" alt="Beecrowd" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/BeecrowdLogo2.svg" />
 </a>
+-->
 
 <a href="mailto:clariana.nscosta@gmail.com">
   <img align="left" alt="GMail" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/GmailLogo2.svg" />
